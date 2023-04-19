@@ -1,5 +1,5 @@
 # SuperHot-Like (PC & VR)
-This game was made on an game development course game jam (2021).
+This game was made for a game development course game jam (2021).
 
 Release: (link under construction)
 
