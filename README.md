@@ -1,4 +1,4 @@
-# superhot-like-pc-vr
+# Superhot-Like (PC & VR)
 This game was made on an game development course game jam (2021).
 
 Release: (link under construction)
@@ -11,7 +11,7 @@ mrplcardoso@gmail.com
 ## Requirements
 Unity 2021.3.15  
 Unity Web Module  
-GameJolt API
+Google Cardboard for Unity
 
 ## Resources
 
