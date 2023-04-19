@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 0
+    path: Assets/Samples/Google Cardboard XR Plugin for Unity/1.17.0/Hello Cardboard/Scenes/HelloCardboard.unity
+    guid: 145a2a45d7bc746b19cb68410368bf96
+  - enabled: 0
+    path: Assets/Samples/Google Cardboard XR Plugin for Unity/1.17.0/Hello Cardboard/Scenes/Hello
+      Canvas.unity
+    guid: b84438253f78d7843a5bd1f056fa4209
+  - enabled: 0
+    path: Assets/Scenes/SampleScene.unity
+    guid: 9fc0d4010bbf28b4594072e72b8655ab
+  - enabled: 1
+    path: Assets/Scenes/Title.unity
+    guid: b4138ad1569759c429fc871e966fc820
+  - enabled: 1
+    path: Assets/Scenes/Map.unity
+    guid: dbdce5f536a27554aba4c1f2d37ea9de
+  m_configObjects:
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: 62c08ab25017d1648b14ed54d5adf741, type: 2}
