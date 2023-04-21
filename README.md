@@ -5,9 +5,7 @@ This game was made for a game jam (in 2021) of a game development course.
 [under construction]
 
 ## Authors
-Marcos Cardoso  
-<a href=https://github.com/mrplcardoso>@mrplcardoso</a>  
-mrplcardoso@gmail.com
+- Marcos Cardoso ([Game Jolt](https://gamejolt.com/@marcoscardoso1_b064/games), mrplcardoso@gmail.com): Programmer, Music Composer
 
 ## Requirements
 Unity 2021.3.15  
